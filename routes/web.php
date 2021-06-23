@@ -39,4 +39,5 @@ Auth::routes(['verify'=>true]);
 
 Route::get('/home', 'HomeController@index')->name('home')->middleware('verified');
 
-
+Route::get('redirect/{service}','SocailController@redirect');
+Route::get('callback/{service}','SocailController@callback');

@@ -68,6 +68,10 @@
                                 </button>
                             </div>
                         </div>
+
+                        <div class="form-group row mb-0">
+                            <a href="{{URL('redirect/facebook')}}">Login with FB</a>
+                        </div>
                     </form>
                 </div>
             </div>
