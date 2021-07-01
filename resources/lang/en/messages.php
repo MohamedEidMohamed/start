@@ -15,4 +15,10 @@ return [
 
     'Welcome' => 'ًWelcome',
     'how are you?' => 'How are you',
+    'offers form unique'=>'enter another name ',
+    'offer name'=>'offer name',
+    'offer name ar'=>'offer name arabic',
+    'offer name en'=>'offer name english',
+    'offer price'=>'offer price ',
+    'offer quality'=>'offer quality',
 ];

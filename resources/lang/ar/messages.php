@@ -15,5 +15,11 @@ return [
 
     'Welcome' => 'أهلا',
     'how are you?' => 'كيف الحال',
+    'offers form unique'=>'هذه القيمة موجودة بالفعل',
+    'offer name'=>'اسم العرض ',
+    'offer name ar'=>'اسم العرض بالعربي',
+    'offer name en'=>'اسم العرض بالانجليزي',
+    'offer price'=>'سعر العرض ',
+    'offer quality'=>'جودة العرض',
 
 ];
